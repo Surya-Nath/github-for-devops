@@ -3,3 +3,7 @@ git status
 git add
 git commit
 git restore
+git commit -m "adding file features"
+cls
+git remote -v
+git push origin main
